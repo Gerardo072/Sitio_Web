@@ -3,42 +3,32 @@
                                                  Portafolio IV Período🖥️
                                                            
 ![image](https://user-images.githubusercontent.com/78932900/135019776-e7d0eb49-e4e0-433b-b8db-49ebca3a1fff.png)
+
                                                         Año 2021
                                                         
                                                         
-Información general 📚   
+Información general 📚
 
-| Institución	  | Colegio Santa Catalina Labore |
-
-| Nombre | Oscar Gerardo de Jesús Ordoñez Alvarez |
-
-| Maestro | Jossue Emmanuel Fuentes |
-
-| Grado | IV Bachillerato en Computación |
-
-| Materia | Laboratorio 1 |
+| Institución  | Colegio Santa Catalina Labore |
+| ------------- | ------------- |
+| Nombre  | Oscar Gerardo de Jesús Ordoñez Alvarez |
+| Maestro  | Jossue Emmanuel Fuentes |
+| Grado  | IV Bachillerato en Computación |
+| Materia  | Laboratorio 1 |
 
 Índice✏️
 
-| 01 | Portada |
-
-| 02 | Información |
-
-| 03 | Índice |
-
-| 04 | Objetivos |
-
-| 05 | Splash |
-
-| 06 | Login |
-
-| 07 | Login V2 |
-
-| 08 | Profile |
-
-| 09 | dashboard |
-
-| 10 | Objetivos Futuros |
+| 01  | Portada |
+| ------------- | ------------- |
+| 02  | Información |
+| 03  | Índice |
+| 04  | Objetivos |
+| 05  | Splash |
+| 06  | Login |
+| 07  | Login V2 |
+| 08  | Profile |
+| 09  | dashboard |
+| 10  | Objetivos Futuros |
 
 Objetivos 📋
 1. Mejorar y practicar mas la programación .
