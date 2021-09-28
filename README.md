@@ -6,23 +6,38 @@
                                                         Año 2021
                                                         
                                                         
-Información general 📚                                                                       
+Información general 📚   
+
 | Institución	  | Colegio Santa Catalina Labore |
-| Nombre	  | Oscar Gerardo de Jesús Ordoñez Alvarez |
-| Maestro  | Jossue Emmanuel Fuentes |
-| Grado  | IV Bachillerato en Computación |
-| Materia  | Laboratorio 1 |
+
+| Nombre | Oscar Gerardo de Jesús Ordoñez Alvarez |
+
+| Maestro | Jossue Emmanuel Fuentes |
+
+| Grado | IV Bachillerato en Computación |
+
+| Materia | Laboratorio 1 |
 
 Índice✏️
+
 | 01 | Portada |
+
 | 02 | Información |
+
 | 03 | Índice |
+
 | 04 | Objetivos |
+
 | 05 | Splash |
+
 | 06 | Login |
+
 | 07 | Login V2 |
+
 | 08 | Profile |
+
 | 09 | dashboard |
+
 | 10 | Objetivos Futuros |
 
 Objetivos 📋
