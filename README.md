@@ -31,9 +31,12 @@ Información general 📚
 | 10  | Objetivos Futuros |
 
 Objetivos 📋
-1. Mejorar y practicar mas la programación .
-2. Ganar el cuarto peridodo y pasar a Quinto bachillerato.
-3. Mantener bien echo mis trabajos 
+1. Saber 📕
+Mejorar y practicar mas la programación.
+2. Saber hacer 📗
+Ganar el cuarto peridodo y pasar a Quinto bachillerato.
+3. Saber ser y estar 📘
+Mantener bien echo mis trabajos 
                                                        
 Documentación 🗃️
 | Parte 1  | https://gerardo072.github.io/base-sitio-web/ |
@@ -44,6 +47,9 @@ Documentación 🗃️
 | Parte 5  | https://gerardo072.github.io/base-sitio-web-5/ |
 
 Objetivos Futuros 📝
-1. Ganar las clases y graduarme en el otro año.
-2. entregar los trabajos al 100 por %.
-3. Aprender nuevos metodos de programación.
+1. Organización📌
+Ganar las clases y graduarme en el otro año.
+2. Investigación📌
+Entregar los trabajos al 100 por %.
+Propósito📌
+Aprender nuevos metodos de programación.
