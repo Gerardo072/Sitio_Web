@@ -32,10 +32,13 @@ Información general 📚
 
 Objetivos 📋
 1. Saber 📕
+
 Mejorar y practicar mas la programación.
 2. Saber hacer 📗
+
 Ganar el cuarto peridodo y pasar a Quinto bachillerato.
 3. Saber ser y estar 📘
+
 Mantener bien echo mis trabajos 
                                                        
 Documentación 🗃️
@@ -48,8 +51,12 @@ Documentación 🗃️
 
 Objetivos Futuros 📝
 1. Organización📌
+ 
 Ganar las clases y graduarme en el otro año.
 2. Investigación📌
+
 Entregar los trabajos al 100 por %.
-Propósito📌
+
+3. Propósito📌
+
 Aprender nuevos metodos de programación.
