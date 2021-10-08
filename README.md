@@ -31,6 +31,7 @@ Información general 📚
 | 10  | Objetivos Futuros |
 
 Objetivos 📋
+
 Saber 📕
 
 Mejorar y practicar mas la programación.
@@ -52,6 +53,7 @@ Documentación 🗃️
 | Parte 5  | https://gerardo072.github.io/base-sitio-web-5/ |
 
 Objetivos Futuros 📝
+
 Organización📌
  
 Ganar las clases y graduarme en el otro año.
